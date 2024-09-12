@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=EmployeeDetailsWindow
+comment1.params=employees
+comment1.target=EmployeeDetailsWindow(java.util.List)
+comment2.params=labelText
+comment2.target=javax.swing.JTextField\ addTextField(java.lang.String)
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=4

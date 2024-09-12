@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=DBconnector
+comment1.params=
+comment1.target=java.sql.Connection\ getCon()
+numComments=2

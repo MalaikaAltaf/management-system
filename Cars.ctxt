@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Cars
+comment1.params=
+comment1.target=void\ get_details()
+comment2.params=
+comment2.target=void\ set_details()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=carList
+comment4.target=void\ sell_car(java.util.List)
+comment5.params=carList
+comment5.target=void\ rent_car(java.util.List)
+comment6.params=
+comment6.target=void\ get_sold_cars()
+comment7.params=
+comment7.target=void\ get_rented_cars()
+numComments=8
